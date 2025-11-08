@@ -104,7 +104,7 @@ Potential enhancements identified:
 
 ## How to Access
 
-**Full Paper:** [Rundell_2025_Checkers_AI_Comparative_Analysis.pdf](./Rundell_2025_Checkers_AI_Comparative_Analysis.pdf)
+**Full Paper:** [Rundell_2025_Checkers_AI_Comparative_Analysis.pdf](https://github.com/Greenskin44/Checkers-AI-Solution-Proposal/blob/main/Rundell_Noah_Checkers_AI_Comparative_Analysis.pdf)
 
 ### Paper Structure
 1. **Introduction** - Problem motivation and AI applicability
